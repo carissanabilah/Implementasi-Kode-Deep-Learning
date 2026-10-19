@@ -1,1 +1,1 @@
-
+Repository ini berisi kumpulan enam studi kasus implementasi berbasis Python dalam format Jupyter Notebook (.ipynb). Notebook disediakan sebagai bahan pembelajaran dan eksplorasi alur kerja komputasi, analisis data, serta penerapan metode sesuai isi masing-masing studi kasus.
